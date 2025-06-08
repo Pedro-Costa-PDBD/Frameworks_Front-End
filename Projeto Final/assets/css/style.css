@@ -1,0 +1,16 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.img-grayscale{
+    filter: grayscale(1);
+}
+
+.img-bg-callToAction{
+    background-image: linear-gradient(to bottom, rgb(13, 110, 253, 1), rgba(74, 168, 250, 0.6)), url(../css/Image5.jpeg);
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+}
